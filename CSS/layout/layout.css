@@ -1,0 +1,18 @@
+.nameLink {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    position: fixed;
+    padding: 10%;
+}
+.mainProfile{
+display: grid;
+
+}
+.divLeft{
+    disp
+}
+.divRight{
+    padding-left: ;
+}
